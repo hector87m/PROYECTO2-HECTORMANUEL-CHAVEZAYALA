@@ -27,7 +27,7 @@ const pedido = () => {
         background: '#fff url(/images/trees.png)',
         backdrop: `
           rgba(0,0,123,0.4)
-          url("../img/pikachu-running.gif")
+          url("https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif")
           left top
           no-repeat
         `
