@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "mesa de cama/sofa",
+      "descripcion": "Mesa ajustable, que podes usar como bandeja de comida, soporte de netbook o cualquier use que le des a una mesa.",
+      "imagen": "img1.jpg",
+      "precio": "$12.000,00",
+      "puntuacion": "****"
+    },
+    { 
+      "id": 2,
+      "nombre": "escritorio de cama/sofa",
+      "descripcion": "Parecida a la mesa, pero esta version es mas profesional y orientada a trabajar con comodidad desde la cama.",
+      "imagen": "img2.jpg",
+      "precio": "$19.999,99",
+      "puntuacion": "*****"
+    },
+    {
+      "id": 3,
+      "nombre": "soporte de tablet",
+      "descripcion": "Para apoyar tu tablet sin tener que esforzarte por sostenerla, te permite cargarla sin que moleste el cable del cargador.",
+      "imagen": "img3.jpg",
+      "precio": "$5000,00",
+      "puntuacion": "***"
+    },
+    {
+      "id": 4,
+      "nombre": "escritorio de tablet",
+      "descripcion": "Es perfecto para cualquier posicion en que necesites la tablet, con gran espacio para cuadernos o lo que necesites",
+      "imagen": "img4.jpg",
+      "precio": "$7000,00",
+      "puntuacion": "****"
+    },
+    {
+      "id": 5,
+      "nombre": "organizador",
+      "descripcion": "El producto que te va a ayudar a tener todo ordenado y no olvidarte nada antes de salir.",
+      "imagen": "img5.jpg",
+      "precio": "$5.999,99",
+      "puntuacion": "***"
+    },
+    {
+      "id": 6,
+      "nombre": "mesa matera",
+      "descripcion": "Justo lo que necesitas si queres el mate siempre a tu lado de forma comoda y mas que segura si peligro de volcar cualquier cosa.",
+      "imagen": "img6.jpg",
+      "precio": "$13.000,00",
+      "puntuacion": "****"
+    }
+  ]

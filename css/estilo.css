@@ -1,0 +1,48 @@
+*{
+    font-family: 'mooli', sans-serif;
+}
+h1{
+    text-shadow:3px 2px 0px  #ffffff;
+    background-color: #cc7f21;
+}
+h2{
+    text-shadow:2px 1px 0px  #cc7f21;
+}
+h3{
+    text-shadow:1px 1px 0px  #cc7f21;
+}
+p{
+    color: hsl(240, 19%, 12%);
+    text-shadow:1px 1px 0px  #cc7f21;
+}
+footer {
+    border: 1px solid #ccc;
+    background-color: #cc7f21;
+    text-align: center;
+     font-family: Arial, sans-serif;
+     font-style: italic;
+     text-transform: inherit;
+}
+
+.grid-container{
+    display: grid;
+    padding:20px;
+  }
+
+.grid-items{
+    background-color: #fcb430;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(9, 139, 42);
+      color: #fff;
+    }
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: small;
+}
